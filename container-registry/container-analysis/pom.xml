@@ -39,12 +39,12 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-containeranalysis</artifactId>
-      <version>0.1.1-alpha</version>
+      <version>0.59.0-beta</version>
     </dependency>
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-pubsub</artifactId>
-      <version>1.38.0</version>
+      <version>1.41.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.api</groupId>
